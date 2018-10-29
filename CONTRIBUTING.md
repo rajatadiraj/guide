@@ -357,7 +357,7 @@ Don't use emojis or emoticons in the Guide. freeCodeCamp has a global community,
 
 ### Attributions
 
-To minimize the potential for plagiarism and maintain integrity in this guide, it is important to give credit where necessary.
+To minimize the potential for plagiarism and maintain integrity in this guide, it is important to give credit wherever necessary.
 
 Any material quoted, or used directly and unchanged, from source material should be wrapped in quotation marks and be adequately cited. Material that is not a direct quote but is still paraphrased from a different resource should also be cited.
 
